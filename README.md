@@ -1,7 +1,7 @@
 # Passwordgenerator
 # 🔐 Random Password Generator
 
-A simple yet powerful Random Password Generator built using JavaScript (or Python/C++ depending on your implementation) that creates strong and secure passwords to help users enhance their online security.
+A simple yet powerful Random Password Generator built using JavaScript that creates strong and secure passwords to help users enhance their online security.
 
 ## 🚀 Features
 
@@ -17,14 +17,13 @@ A simple yet powerful Random Password Generator built using JavaScript (or Pytho
 
 ## 📸 Demo
 
-![Demo Screenshot](demo.png) <!-- Replace with your actual image if you have one -->
+![Demo Screenshot](demo.png) 
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
-<!-- Or update based on your tech stack -->
-- **Logic**: JavaScript functions (can be adapted for Python/C++)
 
+- **Logic**: JavaScript functions 
 ## 🧪 How It Works
 
 1. User selects desired options:
@@ -42,3 +41,5 @@ random-password-generator/
 ├── style.css
 ├── script.js
 └── README.md
+## Live Demo Link
+Link :  https://passwordgenerator-ammans-projects-555e2c46.vercel.app/
