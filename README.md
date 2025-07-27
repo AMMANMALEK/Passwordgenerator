@@ -3,6 +3,8 @@
 
 A simple yet powerful Random Password Generator built using JavaScript that creates strong and secure passwords to help users enhance their online security.
 
+## Live Demo Link
+Link :  https://passwordgenerator-ammans-projects-555e2c46.vercel.app/
 ## 🚀 Features
 
 - Generate completely random passwords
@@ -41,5 +43,4 @@ random-password-generator/
 ├── style.css
 ├── script.js
 └── README.md
-## Live Demo Link
-Link :  https://passwordgenerator-ammans-projects-555e2c46.vercel.app/
+
